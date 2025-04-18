@@ -1,0 +1,3 @@
+No tuve mucho tiempo para esta práctica, así que no le pude sumar todo lo que quería al principio. Me enfoqué más que nada en una estructura responsiva básica y en optimizar el código lo más posible. ¡Hasta me animé a usar variables por primera vez!
+
+PD: Me estoy yendo de viaje, por eso no puedo seguir con la practica 😥 No sé si podre conectarme a las clases de la semana que viene, pero llegado el caso las veo online!
